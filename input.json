@@ -1,0 +1,14 @@
+{	
+
+	  "TARGET": "https://demo.testfire.net",
+	  "APPLICATION_NAME":"AltoroJ_Example",
+	  "JOB_NAME": "AltoroJ_Jenkins_Json",
+          "APPSCAN_CREDENTIALS_NAME":"ASE Credentials",
+          "APPSCAN_FOLDER_PATH": "ASE/Users/appscanadmin",
+	  "APPSCAN_TEMPLATE_NAME": "demo.testfire.net",
+    	  "APPSCAN_TEST_OPTIMIZATION": "3",
+ 	  "APPSCAN_TEST_POLICY": "1",
+ 	  "APPSCAN_SCAN_TYPE": "1",
+	  "TRAFFIC_FILE_TYPE": "Manualseq_demo.testfire.net_162023_11318.dast.config",
+          "LOGIN_FILE_PATH": "seq_demo.testfire.net_3152023_7217.dast.config"
+}
