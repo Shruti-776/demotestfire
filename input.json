@@ -2,7 +2,7 @@
 
 	  "TARGET": "https://demo.testfire.net",
 	  "APPLICATION_NAME":"AltoroJ_Example",
-	  "JOB_NAME": "AltoroJ_Jenkins_Json_1",
+	  "JOB_NAME": "AltoroJ_Jenkins_Json",
           "APPSCAN_CREDENTIALS_NAME":"ASE Credentials",
           "APPSCAN_FOLDER_PATH": "ASE/Users/appscanadmin",
 	  "APPSCAN_TEMPLATE_NAME": "demo.testfire.net",
